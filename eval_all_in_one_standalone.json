@@ -1,0 +1,10 @@
+{
+  "hf_lm_path_or_name": "google-bert/bert-base-uncased",
+  "data_path_or_name": "./demo_data/demo_dataset.jsonl",
+  "target_text_col": "target_text",
+  "output_text_col": "output_text",
+  "max_output_char_num": 256,
+  "device": "cuda:1", 
+  "metrics": ["avg_cos_sim", "bertscore", "rouge", "meteor"], 
+  "output_path": "./_text_summarization_evaluated_samples.jsonl"
+}

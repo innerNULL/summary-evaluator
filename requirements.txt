@@ -1,0 +1,13 @@
+# Crawler related
+tqdm==4.66.1
+torchmetrics==1.3.0.post0
+pandas>=2.0.3
+numba==0.58.1
+numpy>=1.24.4
+torch>=2.1.2
+datasets>=2.16.1
+transformers==4.37.2
+opencc==1.1.7
+torchmetrics==1.3.0.post0
+evaluate>=0.4.1nltk==3.8.1
+nltk==3.8.1

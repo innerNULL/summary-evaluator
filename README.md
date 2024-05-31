@@ -9,7 +9,7 @@ First prepare you Pyhton runtime:
 ```shell
 conda create -p ./_venv python=3.10
 conda activate ./_venv
-conda deactivate
+# conda deactivate
 
 # or 
 
